@@ -2,7 +2,7 @@
 - 👀 I’m interested in music
 - 🌱 I’m currently learning music
 - 💞️ I’m looking to collaborate on youtube
-- 📫 How to reach me ：via twiiter/facebook or ins
+- 📫 How to reach me ：via twiiter or ins
 
 <!---
 lannao12777/lannao12777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
